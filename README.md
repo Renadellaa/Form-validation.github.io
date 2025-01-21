@@ -1,13 +1,13 @@
 <h2>1. Название проекта</h2>
 <p>Form Validation</p>
-<img src='img/form-validation.png'>
-<h2>2. Описание проекта</h2>
-<p>Form Validation - это html-страница с формой регистрации. Проект выполнен в качестве тестового задания.</p>
 <p>
   <strong>Ссылка на проект</strong>
   <br>
   <a href='https://renadellaa.github.io/Form-validation.github.io/'>Form Validation</a>
 </p>
+<img src='img/form-validation.png'>
+<h2>2. Описание проекта</h2>
+<p>Form Validation - это html-страница с формой регистрации. Проект выполнен в качестве тестового задания.</p>
 <h2>3. Технологии</h2>
 <div style="
   display: inline;
